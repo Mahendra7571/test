@@ -1,0 +1,56 @@
+body{
+margin:0px;
+}
+.top-container{
+text-align: center;
+ background-color:#e9b0df;
+padding-top:20px;
+position:relative;
+}
+.myimage{
+width:200px;
+height:200px;
+}
+.bottom-cloud{
+position:absolute;
+left:40px;
+bottom:200px;
+top:20px;
+}
+.top-cloud{
+position: absolute;
+right:40px;
+
+
+}
+.m{
+width:50%;
+direction:right;
+hspace:50%;
+vspace:50px;
+loop:2;
+bgcolor:red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.middle-container{
+  width:200px;
+  height:200px;
+  background-color:yellow;
+}
+.bottom-container{
+width:200px;
+height:200px;
+background-color:blue;
+
+}
